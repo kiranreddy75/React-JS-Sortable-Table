@@ -1,0 +1,62 @@
+#table-cage{
+  text-align: center;
+}
+#employee-caption{
+  font-size: 24px;
+  margin:20px;
+}
+#employee-table td,
+#employee-table th {
+  padding: 0;
+  border: 2px solid;
+  font-size: 16px;
+}
+#employee-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+#employee-table th {
+  background: rgb(164, 182, 162);
+}
+
+#employee-table th i {
+  font-size: 14px;
+  padding: 5px;
+  width: 10px;
+}
+
+.th-body:focus {
+  background-color:#636161 !important;}
+
+.th-body {
+  display: block;
+  width: 100%;
+  cursor: pointer;
+}
+
+.visuallyhidden {
+  border: 0;
+  clip: rect(0 0 0 0);
+  height: 1px;
+  margin: -1px;
+  overflow: hidden;
+  padding: 0;
+  position: absolute;
+  width: 1px;
+}
+#pagination{
+  margin: 20px;
+}
+#pageLabel{
+  margin-left:20px;
+}
+#pagination button{
+  cursor: pointer;
+}
+
+.DayPickerInput input{
+  border:0px !important;
+  font-size: 16px;
+  text-align: center;
+}
