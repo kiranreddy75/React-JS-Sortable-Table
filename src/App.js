@@ -19,7 +19,7 @@ class App extends Component {
                 {name: 'Zemira',salary: 94500, extension:126,date:'11/17/14',company:'Infinity'},
                 {name: 'Victoria',salary: 64500, extension:132,date:'11/17/13',company:'Infinity'},
                 {name: 'Reuben',salary: 74800, extension:117,date:'11/17/14',company:'Infinity'},
-                {name: 'Barak',salary: 54500, extension:113,date:'01/17/18',company:'Infinitys'},
+                {name: 'Barak',salary: 54500, extension:113,date:'01/17/18',company:'Infinity'},
                 {name: 'Eliphaz',salary: 89500, extension:111,date:'11/17/17',company:'Infinity'},
                 {name: 'Talitha',salary: 64500, extension:110,date:'12/17/16',company:'Infinity'},
                 {name: 'Andrew',salary: 98578, extension:123,date:'11/13/17',company:'Infinity'},
